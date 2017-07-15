@@ -1,0 +1,4 @@
+project=partial_render_bug
+architecture=container
+test=minitest
+template=erb
